@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bucket List</string>
+    <string name="hint_destination_name">Destination Name</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_description">Description</string>
+    <string name="button_add_destination">Add Destination</string>
+    <string name="message_add_destination">Add destinations to your list!</string>
+    <string name="destination_added_success">Destination added successfully!</string>
+    <string name="destination_add_failed">Failed to add destination.</string>
+    <string name="fill_all_fields">Please fill all fields.</string>
+</resources>
