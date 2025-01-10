@@ -8,4 +8,16 @@
     <string name="destination_added_success">Destination added successfully!</string>
     <string name="destination_add_failed">Failed to add destination.</string>
     <string name="fill_all_fields">Please fill all fields.</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_button_desc">Login to your account</string>
+    <string name="register_button_text">Register</string>
+    <string name="register_button_desc">Create a new account</string>
+    <string name="error_fill_all_fields">Please fill all fields</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_failed">Login failed: %1$s</string>
+    <string name="register_success">Account created! Please login.</string>
+    <string name="register_failed">Registration failed: %1$s</string>
+
 </resources>
